@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+
+.game-score h3 {
+    margin: 5px 20px;
+    display: inline-block
+}
+
+.game-score h3 span {
+    color:blue;
+}
+
+.game-over {
+    display: none;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 99;
+    width: 100%;
+    height: 100%;
+}
+
+.game-over article {
+    margin: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 550px;
+    height: 330px;
+    background: #fff;
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+}
+
+.game-over h2 {
+    font-size: 30px;
+}
+
+.game-over button {
+    border: 0;
+    background: #f1f1f1;
+    border-radius: 2px;
+    padding: 10px 20px;
+}
+
+.open {
+    display: block;
+}
