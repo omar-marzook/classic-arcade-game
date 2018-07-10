@@ -6,7 +6,7 @@
 * Getting hit by an enemy will cause you to start over and increase collided.
 
 ## Demo
-* Try It [Demo]()
+* Try It [Demo](https://omar-marzook.github.io/p4.frontend-nanodegree-arcade-game-master/)
 
 Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission.
 
