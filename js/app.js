@@ -126,23 +126,23 @@ function gameScore() {
     }
 }
 
-function gameOver() {
-    if(score === 5) {
-        gameOverClass.className = ' open';
-        conditionClass.innerHTML = 'Well Done! You have Won.';
-        console.log("it works");
-        alert("it works");
-    }
+// function gameOver() {
+//     if(score === 5) {
+//         gameOverClass.className = ' open';
+//         conditionClass.innerHTML = 'Well Done! You have Won.';
+//         console.log("it works");
+//         alert("it works");
+//     }
     
-    if(collided === 5) {
-        gameOverClass.className += ' open';
-        conditionClass.innerHTML = 'Unfortunately! You have Lost.';
-        console.log('it worksss');
-        alert('it worksss');
-    }
-}
+//     if(collided === 5) {
+//         gameOverClass.className += ' open';
+//         conditionClass.innerHTML = 'Unfortunately! You have Lost.';
+//         console.log('it worksss');
+//         alert('it worksss');
+//     }
+// }
 
-gameOver();
+// gameOver();
 
 // function tryAgain() {
 //     score = 0;

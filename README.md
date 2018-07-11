@@ -1,5 +1,13 @@
 # frontend-nanodegree-arcade-game
 
+## Installation
+To run the application:
+
+1. Download the GitHub zip file or clone the repository onto your local workstation:
+	* zip file [https://codeload.github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master/zip/master](https://codeload.github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master/zip/master "download zip file")
+	* git clone [https://github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master.git](https://github.com/omar-marzook/p4.frontend-nanodegree-arcade-game-master.git "git clone repository")
+2. Open the game by opening  the index.html file in your browser.
+
 ## How to Play
 * Use arrow keys to move in the canvas.
 * Score increase when Player arrive to the other side.
