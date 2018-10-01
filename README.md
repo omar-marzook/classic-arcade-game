@@ -1,4 +1,4 @@
-# frontend-nanodegree-arcade-game
+# p4.frontend-nanodegree-arcade-game-master
 
 ## Installation
 To run the application:
@@ -14,7 +14,7 @@ To run the application:
 * Getting hit by an enemy will cause you to start over and increase collided.
 
 ## Demo
-* Try It [Demo](https://omar-marzook.github.io/p4.frontend-nanodegree-arcade-game-master/)
+* Try It [Demo](https://omar-marzook.github.io/classic-arcade-game/)
 
 ## More Details
 Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission.
